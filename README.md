@@ -1,3 +1,15 @@
+## Hi Y'all
+
+I'm Rob McCormick and I am getting started with Github, Markdown and Python.
+
+I will see [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown) to get more comforatable with Markdown.
+
+These [Jekyll](https://jekyllrb.com) themes are well put together.
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/remccormick/remccormick.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

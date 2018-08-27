@@ -7,6 +7,13 @@ Github links to review:
 - [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown) for obvious reasons.
 - [Jekyll](https://jekyllrb.com) themes are well put together.
 
+## Notes on Vim
+
+- [Damian Conway's .vimrc file](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup)
+
+:help :helpgrep <pattern>, cnext, cprev, cnfile, cnprev
+:help normal-index
+:help insert-index
 
 ## Welcome to GitHub Pages
 

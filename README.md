@@ -1,4 +1,4 @@
-## Hi Y'all
+## Hi Gang
 
 I'm Rob McCormick and I am getting started with Github, Markdown and Python.
 

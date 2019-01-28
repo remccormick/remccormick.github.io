@@ -1,6 +1,6 @@
-## Hi Gang
+## Hi All
 
-I'm Rob McCormick and I am getting started with Github, Markdown and Python.
+Early work getting started with Github, Markdown and Python.
 
 
 Github links to review:
